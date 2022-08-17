@@ -25,7 +25,8 @@ dependencies:
   camera_android: ^0.10.0
   camera_avfoundation: ^0.9.7+1
   camera_platform_interface: ^2.2.0
-  camera_web: ^0.3.0
+  camera_web:
+    path: ./camera_web/
   flutter:
     sdk: flutter
   flutter_plugin_android_lifecycle: ^2.0.2
